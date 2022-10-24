@@ -1,0 +1,5 @@
+why does print(round(7/2)) prints 4 instead of 3 or
+why does print(round(9/2)) prints 4 instead of 5?
+
+This is because, in python, the round function implements banker’s rounding,
+where all the half values are rounded to the closest even number."""
